@@ -39,7 +39,7 @@ public class App
 	      System.out.println("Scripted Executing");
 	        
 	      //1. Open the browser and get to the url
-	      driver.get("http://13.58.173.178:8081/contact.html");
+	      driver.get("http://18.217.141.224:8081/contact.html");
 	      
     	//load application
 	      driver.manage().timeouts().implicitlyWait(3, TimeUnit.SECONDS);
